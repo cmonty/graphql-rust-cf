@@ -1,0 +1,6 @@
+name = "graphql-rust"
+type = "rust"
+account_id = "41869b3c2c38c22998c12dccf34d409e"
+workers_dev = true
+route = ""
+zone_id = ""
